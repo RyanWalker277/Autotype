@@ -1,0 +1,12 @@
+LICENSE
+README.md
+setup.py
+Simulator/__init__.py
+Simulator/simulate_keyboard.py
+autotype/__init__.py
+autotype/autotype.py
+autotype.egg-info/PKG-INFO
+autotype.egg-info/SOURCES.txt
+autotype.egg-info/dependency_links.txt
+autotype.egg-info/requires.txt
+autotype.egg-info/top_level.txt
